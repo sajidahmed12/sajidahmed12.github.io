@@ -9,11 +9,11 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem install bundler
-bundle update
-bundle install
-
+source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
+
+gem install bundler
+bundle exec jekyll serve
 
 # If you want to use Jekyll native, uncomment the line below.
 #To upgrade, run `bundle update`.
