@@ -11,7 +11,7 @@ title                    : "Md Sajid Ahmed"
 title_separator          : "-"
 name                     : &name "Md Sajid Ahmed"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sajidahmed12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Md Sajid Ahmed"
   avatar           : "https://avatars.githubusercontent.com/u/28151933?v=4"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am Md Sajid Ahmed | AI/ML Engineer"
   location         : "Dhaka, Bangladesh"
-  employer         :
+  employer         : "Altersense Limited"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3lLB9NYAAAAJ&hl=en"
   email            : "sajid.ahmed1@northsouth.edu"
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "in/sajid-ahmed-rafi"
+  linkedin         : "sajid-ahmed-rafi"
   orcid            : "https://orcid.org/0000-0002-3779-3230"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/22362559/md-sajid-ahmed"
   steam            :
   tumblr           :
   twitter          : "sajid_ahmed12"
