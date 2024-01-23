@@ -12,9 +12,6 @@ source "https://rubygems.org"
 source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
-bundler install
-bundle exec jekyll serve
-
 # If you want to use Jekyll native, uncomment the line below.
 #To upgrade, run `bundle update`.
 
