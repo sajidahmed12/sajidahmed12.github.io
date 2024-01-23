@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+## See my updated resume/CV [here](https://drive.google.com/file/d/1BrHC00FaSIqLFJxl0qioGSoby1Wf5Gy8/view)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in CSE, North South University, 2019
 
 Work experience
 ======
