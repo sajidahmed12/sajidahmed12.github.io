@@ -23,4 +23,4 @@ I work in the field of Deep Learning and Computer Vision, where I am interested 
 - NLP (Text-to-Speech Systhesis)
 
 # News:
-- [January 2021](#) Our manuscript on Blood Glucose Level Regression for Smartphone PPG Signals Using Machine Learning has been Published in MPDI Applied Sciences (**IF 2.7**)
+- [January 2021](#) Our manuscript on Blood Glucose Level Regression for Smartphone PPG Signals Using Machine Learning has been Published in MPDI Applied Sciences (**IF 2.7**) [pdf](https://www.mdpi.com/2076-3417/11/2/618)
