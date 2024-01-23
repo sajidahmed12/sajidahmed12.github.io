@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Md Sajid Ahmed / Sajid Site"
+title                    : "Md Sajid Ahmed"
 title_separator          : "-"
 name                     : &name "Md Sajid Ahmed"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "sajid_ahmed12"
 facebook:
-  username               :
+  username               : &facebook "sajid.ahmed.rafi"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Md Sajid Ahmed"
+  avatar           : "https://avatars.githubusercontent.com/u/28151933?v=4"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Dhaka, Bangladesh"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=3lLB9NYAAAAJ&hl=en"
+  email            : "sajid.ahmed1@northsouth.edu"
+  researchgate     : "https://www.researchgate.net/profile/Sajid-Ahmed-8/"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sajidahmed12"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "in/sajid-ahmed-rafi"
+  orcid            : "https://orcid.org/0000-0002-3779-3230"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "sajid_ahmed12"
   vine             :
   weibo            :
   xing             :
