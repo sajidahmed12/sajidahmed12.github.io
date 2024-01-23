@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Md Sajid Ahmed"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 Hi there, I am Md Sajid Ahmed. I am a Machine Learning Engineer at [AlterSense Limited](https://altersense.com/). Previously I was a Lab Instructor at the ECE Department at [North South University](www.northsouth.edu). Taught undergrad Computer Architecture & Database labs. Before that, I worked as a Research Assistant (RA) at the TnR lab. I received my bachelor's degree in Computer Science and Engineering (CSE) from North South University, where I was the recipient of the Best Capstone Project of Summer 2019 of the ACM Student Chapter’s Innovation Challenge.
 
