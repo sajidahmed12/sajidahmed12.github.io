@@ -9,8 +9,9 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
+sudo apt install ruby-dev ruby-bundler
 source "http://rubygems.org"
-bundle update
+bundle install
 bundle exec jekyll serve
 
 gem "github-pages", group: :jekyll_plugins
