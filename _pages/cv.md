@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### See my updated CV/Resume [here](https://drive.google.com/file/d/1yeAlA2F9m29WPNoipmkoReSvcU3lO4u9/view)
+### See my updated CV/Resume [here](http://sajidahmed12.github.io/files/Md_Sajid_Ahmed_CV_v6.pdf)
 
 Education
 ======
