@@ -9,7 +9,8 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-bundle install
+source "http://rubygems.org"
+bundle update
 bundle exec jekyll serve
 
 gem "github-pages", group: :jekyll_plugins
