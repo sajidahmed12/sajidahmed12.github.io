@@ -8,7 +8,6 @@ venue: 'IEEE 10th International Conference on Intelligent Systems (IS) (Varna, B
 paperurl: ''
 citation: 'Md Sajid, Ahmed. (2020). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-#This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](https://tasmin153.github.io/images/is2020.pdf)
 
