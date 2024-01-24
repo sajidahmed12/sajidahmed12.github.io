@@ -12,4 +12,6 @@ citation: 'Md Sajid, Ahmed. (2020). &quot;Paper Title Number 2.&quot; <i>Journal
 
 [Download paper here](https://taoseefishtiak.github.io/PaperIDSA676WHCNNBasedRoadClassificationPaper.pdf)
 
-Recommended citation: S. Ahmed, T. Ishtiak, A. U. R. C Suhan, M.H. Anila, T. Farah, “Road state classification of Bangladesh with convolutional neural network approach”, (2019) Journal of Systemics, Cybernetics and Informatics: JSCI, Volume 17 - Number 4 (extended version for journal publication)
+Recommended citation: 
+
+`S. Ahmed, T. Ishtiak, A. U. R. C Suhan, M.H. Anila, T. Farah, “Road state classification of Bangladesh with convolutional neural network approach”, (2019) Journal of Systemics, Cybernetics and Informatics: JSCI, Volume 17 - Number 4 (extended version for journal publication)`
