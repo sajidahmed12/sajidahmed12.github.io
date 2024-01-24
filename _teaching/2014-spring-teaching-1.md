@@ -9,8 +9,8 @@ location: "Dhaka, Bangladesh"
 ---
 
 Prepared and delivered lab manuals for each course to conduct lab assessments in every class
-• Delivered lectures on topics to grasp the knowledge of lab sessions better
-• Courses Taught ‑ CSE311L‑ Database Systems Lab, Computer Architecture Lab, Digital Logic Design Lab, Object Oriented Programming Lab
+- Delivered lectures on topics to grasp the knowledge of lab sessions better.
+- Courses Taught ‑ CSE311L‑ Database Systems Lab, Computer Architecture Lab, Digital Logic Design Lab, Object Oriented Programming Lab.
 
 #This is a description of a teaching experience. You can use markdown like any other post.
 
