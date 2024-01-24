@@ -1,20 +1,13 @@
 ---
-title: "Teaching Assistant (TA)"
+title: "Lab Instructor"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: " Computer Architecture and Digital Logic Design"
+permalink: /teaching/2015-spring-teaching-2
+venue: "North South University, Department of CSE"
+date: 2014-01-01
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Prepared and delivered lab manuals for each course to conduct lab assessments in every class.
+- Delivered lectures on topics to grasp the knowledge of lab sessions better.
+- Courses Taught ‑ CSE311L‑ Database Systems Lab, Computer Architecture Lab, Digital Logic Design Lab, Object Oriented Programming Lab courses.
