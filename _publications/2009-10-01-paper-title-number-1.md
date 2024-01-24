@@ -1,7 +1,7 @@
 ---
 title: "Road State Classification of Bangladesh with Convolutional Neural Network Approach"
 collection: publications
-permalink: https://taoseefishtiak.github.io/PaperIDSA676WHCNNBasedRoadClassificationPaper.pdf
+permalink: /publication/2009-10-01-paper-title-number-1.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
