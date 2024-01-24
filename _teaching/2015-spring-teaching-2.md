@@ -4,7 +4,7 @@ collection: teaching
 type: " Computer Architecture and Digital Logic Design"
 permalink: /teaching/2015-spring-teaching-2
 venue: "North South University, Department of CSE"
-date: 2014-01-01
+date: 2019-09-14
 location: "Dhaka, Bangladesh"
 ---
 
