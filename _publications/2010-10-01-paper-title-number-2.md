@@ -2,10 +2,10 @@
 title: "Comparative Study of Classifierson Human Activity Recognition by Different Feature Engineering Techniques"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2020-08-19
 venue: 'IEEE 10th International Conference on Intelligent Systems (IS) (Varna, Bulgaria)'
-paperurl: '[pdf](https://tasmin153.github.io/images/is2020.pdf)'
+paperurl: ''
 citation: 'Md Sajid, Ahmed. (2020). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 #This paper is about the number 2. The number 3 is left for future work.
