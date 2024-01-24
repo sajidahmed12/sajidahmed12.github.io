@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-08-10
-venue: 'Applied Sciences,  volume 11(2), issues 618, 2021.  (IF 2.7)'
+venue: 'Journal of Systemics, Cybernetics and Informatics: JSCI, Volume 17 - N4'
 paperurl: 'https://taoseefishtiak.github.io/PaperIDSA676WHCNNBasedRoadClassificationPaper.pdf'
 citation: 'Md Sajid, Ahmed. (2020). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
