@@ -14,7 +14,7 @@ My current research focuses on Computer Vision (Instance Segmentation, Medical I
 
 
 # News:
-- [January 2023](#) I joined the [Fatima Fellowship](www.fatimafellowship.com) as a Fellow-success-coordinator!
+- [January 2023](#) I joined the [Fatima Fellowship](https://www.fatimafellowship.com/) as a Fellow-success-coordinator!
 - [November 2022](#) I started working as a machine learning engineer at [Altersense Ltd.](https://altersense.com/)
 - [May 2022](#) Selected participant as a pre-doctoral Research Fellow at the [Fatima Fellowship](www.fatimafellowship.com)
 - [January 2021](#) Our manuscript on Blood Glucose Level Regression for Smartphone PPG Signals Using Machine Learning has been published in MPDI Applied Sciences Journal (Impact factor 2.7) [pdf](https://www.mdpi.com/2076-3417/11/2/618)
