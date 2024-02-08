@@ -12,16 +12,17 @@ Hi there, I am Md Sajid Ahmed. I am a Machine Learning Engineer at [AlterSense L
 
 My core competencies include object detection, image recognition, machine learning pipelines, and statistical validation. At AlterSense, I work with the Helios team, contributing to various industrial process automation solutions using computer vision and AI. I have built scalable machine learning models for sustainable AI systems, performed analytical validation on ML runtime performance, and created machine learning pipelines for deployment and automation. I am passionate about applying machine learning and computer vision to solve real-world problems and create social impact. I value teamwork, innovation, and education and can bring diverse perspectives and experiences to the organization.
 
-<!---
-Currently, I am working on Emerging number formats of GP GPUs and their impact on ML runtime performance under the supervision of [Dr. Abdulrahman Mahmoud](https://ma3mool.github.io/), Postdoc, [Harvard Architecture, Circuits, and Compilers Group!](https://vlsiarch.eecs.harvard.edu/), The USA. My goal for this research is to inspect the faults and issues of current State-of-the-art Object Detection & Semantic Segmentation models and understand their robustness in terms of Golden inference and error injections. 
--->
+I am a machine learning engineer at [AlterSense Limited](https://altersense.com/), working on deep-learning-based worker activity recognition systems for the garment industry in Bangladesh. I received my B.Sc. in CSE from [North South University](https://www.northsouth.edu) in Dhaka, Bangladesh. I was advised by [Dr.Nabeel Mohammed](https://scholar.google.com.au/citations?hl=en&user=w5djOYsAAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Tanzilur Rahman](https://sites.google.com/site/tanzilctg) from the ECE department at North South University. My bachelor's thesis is titled Road Crack Segmentation with Driving Assistance and Real‑time Feedback System.
 
-# Research Interests:
 
-I work in the field of Deep Learning and Computer Vision, where I am interested in the following areas:
-- **Computer Vision** (Instance Segmentation, Medical Imaging).
-- **Computer Architecture** (Reliability and Resiliency Analysis of DNNs)
-- **Natural Language Processing** (Text-to-Speech Synthesis)
+My current research focuses on Computer Vision (Instance Segmentation, Medical Imaging) and  Resiliency Analysis of SOTA models in terms of ML runtime performance and accuracy. I am also interested in Biomedical Signal Processing (i.e., PPG, EEG, Speech Synthesis). Feel free to contact me to discuss anything related to computer vision signal processing or some of my projects. Find my resume [here](https://sajidahmed12.github.io/files/Md_Sajid_Ahmed_CV_v7.pdf).
+
 
 # News:
-- [January 2021](#) Our manuscript on Blood Glucose Level Regression for Smartphone PPG Signals Using Machine Learning has been Published in MPDI Applied Sciences Journals (**IF 2.7**) [pdf](https://www.mdpi.com/2076-3417/11/2/618)
+- [January 2023](#) I joined the [Fatima Fellowship](www.fatimafellowship.com) as a **Fellow-success-coordinator!**
+- [November 2022](#) Started working as a **Machine Learning Engineer** at [Altersense Ltd.](https://altersense.com/).
+- [May 2022](#) Selected participant as a pre-doctoral **Research Fellow** at the [Fatima Fellowship](www.fatimafellowship.com).
+- [January 2021](#) Our manuscript on ***Blood Glucose Level Regression for Smartphone PPG Signals Using Machine Learning*** has been published in MPDI Applied Sciences Journal (**Impact factor 2.7**) [pdf](https://www.mdpi.com/2076-3417/11/2/618).
+- [August 2020](#) Our paper titled ***Comparative Study of Classifiers on Human Activity Recognition by Different Feature Engineering Techniques*** has been published at the 10th International Conference on Intelligent Systems (IS).
+- [September 2019] Started working as a **Lab Instructor** at the ***ECE department, North South University***
+- [July 2019](#) Published my first research paper titled ***A Convolutional Neural Network Approach for Road Anomalies Detection in Bangladesh with Image Thresholding"*** at the IEEEWS4 conference.
