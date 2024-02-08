@@ -17,24 +17,28 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2022: Machine Learning Engineer
+  * Altersene Limited.
+  * Proposed and designed an overall service architecture for industrial process automation systems in the RMG sector.
+  * Developed multiple machine learning models for RMG worker’s activity monitoring and improved the average precision accuracy by 30 %.
+  * Developed a continuous CI/CD ML model validation pipeline to ensure the trained model’s reliability and scalability in production.
+  * Built and tested semi‑automated ML pipelines on distributed servers for containerized applications using Docker and Kubernetes
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2019: Lab Instructor
+  * North South University University
+  * Duties included delivering lectures on topics to grasp the knowledge of lab sessions.
+  * Prepared and delivered lab manuals for each course to conduct lab assessments in every class
+  * Courses Taught ‑ CSE311L‑ Database Systems Lab, Computer Architecture Lab, Digital Logic Design Lab, Object
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Programming: Python, C/C++, Java, Bash‑Script, LaTeX, Markdown
+- Frameworks: PyTorch, OpenCV, NumPy, Pandas, SciPy, PIL, Matplotlib, Seaborn, Scikit‑learn, Streamlet, NLTK
+- Web Backend: FastAPI, REST Framework, Databases: Redis Stream, ZMQ, MySQL, MongoDB, Scraping: Beautiful‑Soap, Selenium
+- Utilities Git, Docker, FF-MPEG, Redis‑Insight, Label‑Studio, MS Office, Draw.io
+- Simulation Software: Logisim-Evo, Proteus, MARS MIPS Simulator, MATLAB SIMULINK, COMSOL Multiphysics, Quartus Pro.
+- Operating system: Windows, Linux.
+
 
 Publications
 ======
