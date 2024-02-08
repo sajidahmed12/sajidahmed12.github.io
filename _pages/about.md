@@ -14,10 +14,11 @@ My current research focuses on Computer Vision (Instance Segmentation, Medical I
 
 
 # News:
-- [January 2023](#) I joined the [Fatima Fellowship](www.fatimafellowship.com) as a **Fellow-success-coordinator!**
-- [November 2022](#) Started working as a **Machine Learning Engineer** at [Altersense Ltd.](https://altersense.com/).
-- [May 2022](#) Selected participant as a pre-doctoral **Research Fellow** at the [Fatima Fellowship](www.fatimafellowship.com).
-- [January 2021](#) Our manuscript on ***Blood Glucose Level Regression for Smartphone PPG Signals Using Machine Learning*** has been published in MPDI Applied Sciences Journal (**Impact factor 2.7**) [pdf](https://www.mdpi.com/2076-3417/11/2/618).
-- [August 2020](#) Our paper titled ***Comparative Study of Classifiers on Human Activity Recognition by Different Feature Engineering Techniques*** has been published at the 10th International Conference on Intelligent Systems (IS).
-- [September 2019] Started working as a **Lab Instructor** at the ***ECE department, North South University***
-- [July 2019](#) Published my first research paper titled ***A Convolutional Neural Network Approach for Road Anomalies Detection in Bangladesh with Image Thresholding"*** at the IEEEWS4 conference.
+- [January 2023](#) I joined the [Fatima Fellowship](www.fatimafellowship.com) as a Fellow-success-coordinator!
+- [November 2022](#) I started working as a machine learning engineer at [Altersense Ltd.](https://altersense.com/).
+- [May 2022](#) Selected participant as a pre-doctoral Research Fellow at the [Fatima Fellowship](www.fatimafellowship.com).
+- [January 2021](#) Our manuscript on Blood Glucose Level Regression for Smartphone PPG Signals Using Machine Learning has been published in MPDI Applied Sciences Journal (Impact factor 2.7) [pdf](https://www.mdpi.com/2076-3417/11/2/618).
+- [August 2020](#) Our paper titled Comparative Study of Classifiers on Human Activity Recognition by Different Feature Engineering Techniques has been published at the 10th International Conference on Intelligent Systems (IS). [pdf](https://ieeexplore.ieee.org/abstract/document/9199934)
+- [September 2019] Started working as a Lab Instructor at the ECE department at North South University
+- [December 2019] Published my First Journal paper titled: "Road State Classification of Bangladesh with Convolutional Neural Network Approach" [pdf](https://www.iiisci.org/Journal/pdv/sci/pdfs/SA676WH19.pdf)
+- [July 2019](#) Published my first research paper titled A Convolutional Neural Network Approach for Road Anomalies Detection in Bangladesh with Image Thresholding" at the IEEEWS4 conference. [Conference](https://ieeexplore.ieee.org/document/8903936)
