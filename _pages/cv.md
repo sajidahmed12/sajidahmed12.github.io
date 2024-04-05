@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-### See my updated CV/Resume [here](http://sajidahmed12.github.io/files/Md_Sajid_Ahmed_CV_v7.pdf)
-
 Education
 ======
 * B.Sc. in CSE, North South University, 2019
@@ -57,7 +55,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
