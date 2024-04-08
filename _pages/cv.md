@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+### See my updated CV/Resume [here](http://sajidahmed12.github.io/files/Md_Sajid_Ahmed_CV_v7.pdf)
+
 Education
 ======
 * B.Sc. in CSE, North South University, 2019
