@@ -14,7 +14,7 @@ My research focuses on large language models and dialog systems to develop perso
 
 
 # News:
-- [July 2024](#) I moved to Lexington, Kentucky, United States, along with my spouse. 
+- [July 2024](#) I moved to Lexington, Kentucky, United States.
 - [January 2023](#) I joined the [Fatima Fellowship](https://www.fatimafellowship.com/) as a Fellow-success-coordinator!
 - [November 2022](#) I started working as a machine learning engineer at [Altersense Ltd.](https://altersense.com/)
 - [May 2022](#) Selected participant as a pre-doctoral Research Fellow at the [Fatima Fellowship](www.fatimafellowship.com)
