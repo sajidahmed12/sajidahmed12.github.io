@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am a machine learning engineer at [AlterSense Limited](https://altersense.com/), working on deep-learning-based worker activity recognition systems for the garment industry in Bangladesh. My core competencies include object detection, image recognition, machine learning pipelines, and statistical validation. I received my B.Sc. in CSE from [North South University](https://www.northsouth.edu) in Dhaka, Bangladesh. I was advised by [Dr. Nabeel Mohammed](https://scholar.google.com.au/citations?hl=en&user=w5djOYsAAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Tanzilur Rahman](https://sites.google.com/site/tanzilctg) from the ECE department at North South University. My bachelor's thesis is titled Road Crack Segmentation with Driving Assistance and Real‑time Feedback System.
 
-My research focuses on large language models and dialog systems to develop personalizable, interpretable, safe conversational AI systems. I am also interested in computer vision, multimodal vision, and generative AI. Find my resume [here](https://sajidahmed12.github.io/files/Md_Sajid_Ahmed_CV_v7.pdf).
+My research focuses on large language models and dialog systems to develop personalizable, interpretable, safe conversational AI systems. I am also interested in computer vision, multimodal vision, and generative AI. Find my resume [here](https://sajidahmed12.github.io/files/Md_Sajid_Ahmed_CV.pdf).
 
 
 # News:
