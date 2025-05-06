@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hi, I'm Sajid!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a machine learning engineer at [AlterSense Limited](https://altersense.com/), working on deep-learning-based worker activity recognition systems for the garment industry in Bangladesh. My core competencies include object detection, image recognition, machine learning pipelines, and statistical validation. I received my B.Sc. in CSE from [North South University](https://www.northsouth.edu) in Dhaka, Bangladesh. I was advised by [Dr. Nabeel Mohammed](https://scholar.google.com.au/citations?hl=en&user=w5djOYsAAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Tanzilur Rahman](https://sites.google.com/site/tanzilctg) from the ECE department at North South University. My bachelor's thesis is titled Road Crack Segmentation with Driving Assistance and Real‑time Feedback System.
+Hi, I am a former AI engineer at [Altersense Limited](https://altersense.com/), where I worked on deep-learning-based worker activity recognition systems for the garment industry in Bangladesh. My core competencies include object detection, image recognition, machine learning pipelines, and statistical validation. I received my B.Sc. in CSE from [North South University](https://www.northsouth.edu) in Dhaka, Bangladesh. I was advised by [Dr. Nabeel Mohammed](https://scholar.google.com.au/citations?hl=en&user=w5djOYsAAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Tanzilur Rahman](https://sites.google.com/site/tanzilctg) from the ECE department at North South University. My bachelor's thesis is titled *Road Crack Segmentation with Driving Assistance and Real‑time Feedback System*.
 
 My research focuses on large language models and dialog systems to develop personalizable, interpretable, safe conversational AI systems. I am also interested in computer vision, multimodal vision, and generative AI. Find my resume [here](https://sajidahmed12.github.io/files/Md_Sajid_Ahmed_CV.pdf).
 
+Research Interests:
+======
+- Computer Vision
+- Large Language Models
+- Deep Learning
 
 # News:
+- **<span style="color:red">New!:</span>** One of my recent work on Conversational AI Systems in availble now on [ArXiV](https://arxiv.org/abs/2502.13298)
 - [July 2024](#) I moved to Lexington, Kentucky, United States.
 - [January 2023](#) I joined the [Fatima Fellowship](https://www.fatimafellowship.com/) as a Fellow-success-coordinator!
 - [November 2022](#) I started working as a machine learning engineer at [Altersense Ltd.](https://altersense.com/)
