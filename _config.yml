@@ -87,13 +87,13 @@ analytics:
 author:
   name             : "Md Sajid Ahmed"
   avatar           : "s_ahmed.jpg"
-  bio              : "AI/ML Engineer at Altersense Limited"
+  bio              : "Former AI Engineer"
   location         : "Lexington, KY, United States"
   employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3lLB9NYAAAAJ&hl=en"
   email            : "sajid.ahmed1@northsouth.edu"
-  researchgate     : "https://www.researchgate.net/profile/Sajid-Ahmed-8/"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -111,14 +111,14 @@ author:
   orcid            : "https://orcid.org/0000-0002-3779-3230"
   pinterest        :
   soundcloud       :
-  stackoverflow    : ""
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : ""
+  youtube          : 
   wikipedia        :
 
 
