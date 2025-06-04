@@ -19,7 +19,7 @@ Research Interests:
 - Deep Learning
 
 # News:
-- **<span style="color:red">New!:</span>** One of my recent work on Conversational AI Systems in availble now on [ArXiV](https://arxiv.org/abs/2502.13298)
+- **<span style="color:red">New!:</span>** One of my recent works on Conversational AI Systems is available now on [ArXiV](https://arxiv.org/abs/2502.13298)
 - [July 2024](#) I moved to Lexington, Kentucky, United States.
 - [January 2023](#) I joined the [Fatima Fellowship](https://www.fatimafellowship.com/) as a Fellow-success-coordinator!
 - [November 2022](#) I started working as a machine learning engineer at [Altersense Ltd.](https://altersense.com/)
