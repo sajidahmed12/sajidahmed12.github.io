@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a former AI engineer at [Altersense Limited](https://altersense.com/), where I worked on deep-learning-based worker activity recognition systems for the garment industry in Bangladesh. My core competencies include object detection, image recognition, machine learning pipelines, and statistical validation. I received my B.Sc. in CSE from [North South University](https://www.northsouth.edu) in Dhaka, Bangladesh. I was advised by [Dr. Nabeel Mohammed](https://scholar.google.com.au/citations?hl=en&user=w5djOYsAAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Tanzilur Rahman](https://sites.google.com/site/tanzilctg) from the ECE department at North South University. My bachelor's thesis is titled *Road Crack Segmentation with Driving Assistance and Real‑time Feedback System*.
+Hi, I am a former Computer Vision AI Engineer at [AlterSense Limited](https://altersense.com/), where I led the development of a deep learning-based human activity recognition system tailored for the ready-made garments (RMG) industry in Bangladesh. During this role, I designed and implemented a temporal action segmentation model based on Video Mamba, achieving approximately ~82% accuracy on proprietary in-house video datasets. My work was supervised by [Dr. Nabeel Mohammed](https://scholar.google.com.au/citations?hl=en&user=w5djOYsAAAAJ&view_op=list_works&sortby=pubdate).
 
-My research focuses on large language models and dialog systems to develop personalizable, interpretable, safe conversational AI systems. I am also interested in computer vision, multimodal vision, and generative AI. Find my resume [here](https://sajidahmed12.github.io/files/Md_Sajid_Ahmed_CV.pdf).
+Prior to this, I served as a Lab Instructor at [North South University](https://www.northsouth.edu) for three years, where I mentored undergraduate students across a range of computer science and engineering courses. I was also awarded a research fellowship through the [Fatima Fellowship Program](https://www.fatimafellowship.com/) and worked as a Research Assistant at the [TnR Biomedical Research Lab](https://github.com/TnR-Lab), contributing to projects at the intersection of biomedical signal processing and deep learning.
+
+I earned my B.Sc. in Computer Science and Engineering from North South University, advised by [Dr. Mohammad Ashrafuzzaman Khan](https://ece.northsouth.edu/people/dr-mohammad-ashrafuzzaman-khan/) and [Dr. Tanzilur Rahman](https://sites.google.com/site/tanzilctg) from the Department of Electrical and Computer Engineering. My undergraduate thesis, titled *Road Crack Segmentation with Driving Assistance and Real-time Feedback System*, focused on applying computer vision for intelligent transportation.
+
+My research interests lie in computer vision, multimodal learning, and generative AI. You can find my resume [here](https://sajidahmed12.github.io/files/Md_Sajid_Ahmed_CV.pdf).
 
 Research Interests:
 ======
 - Computer Vision
-- Large Language Models
+- Generative AI
+- Vision Language Models
 - Deep Learning
 
 # News:
