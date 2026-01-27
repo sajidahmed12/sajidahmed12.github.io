@@ -7,8 +7,10 @@ author_profile: true
 
 You can also find my publications from my [Google Scholar](https://scholar.google.com/citations?user=googlescholar-id&user=3lLB9NYAAAAJ) profile.
 
+**Selected Publications**
+
 [1]. Moghis Fereidouni, **Md Sajid Ahmed**, Adib Mosharrof, and A.B. Siddique. 2025. Improving Multi‑turn Task Completion in Task‑
-Oriented Dialog Systems via Prompt Chaining and Fine‑Grained Feedback. (Submitted to ACL 2025) [paper](https://arxiv.org/abs/2502.13298)
+Oriented Dialog Systems via Prompt Chaining and Fine‑Grained Feedback, 20th International Conference on Semantic Computing (ICSC). [[PDF]](https://arxiv.org/abs/2502.13298)
 
 [2]. **Md Sajid Ahmed**, Tanvir Tazul Islam*, Md Hassanuzzaman, Syed Athar Bin Amir, and Tanzilur Rahman. 2021. Blood Glucose Level
 Regression for Smartphone PPG Signals Using Machine Learning. Applied Sciences, Vol. 11, Issue 2, pp. 618, MDPI. [[PDF]](https://www.mdpi.com/2076-3417/11/2/618)
@@ -18,7 +20,7 @@ Ahmed**, Md Shahnawaz Zulminan, Abdur Raufus Saleheen, and Rashedur M. Rahman. 2
 Human Activity Recognition by Different Feature Engineering Techniques. 2020 IEEE 10th International Conference on Intelligent
 Systems (IS) [[PDF]](https://ieeexplore.ieee.org/document/9199934)
 
-[[4]. **Md Sajid Ahmed**, Taoseef Ishtiak*, Mehreen Hossain Anila, and Tanjila Farah. 2019. A Convolutional Neural Network Approach
+[4]. **Md Sajid Ahmed**, Taoseef Ishtiak*, Mehreen Hossain Anila, and Tanjila Farah. 2019. A Convolutional Neural Network Approach
 for Road Anomalies Detection in Bangladesh with Image Thresholding. 2019 Third World Conference on Smart Trends in Systems
 Security and Sustainability (WorldS4) [[PDF]](https://ieeexplore.ieee.org/document/8903936)
 
