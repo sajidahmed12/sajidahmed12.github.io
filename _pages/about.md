@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m a PhD student in Computer Science at the University of Kentucky, advised by [Dr. Ruiquan Huang](https://ruiquan5514.github.io/). My research focuses on Large Language Models (LLMs) and diffusion language models, with an emphasis on computational efficiency and scalable training and inference.
+Hi, I’m a Computer Science PhD student at the University of Kentucky, advised by [Dr. Ruiquan Huang](https://ruiquan5514.github.io/). My research focuses on Large Language Models (LLMs) and diffusion language models, with an emphasis on computational efficiency and scalable training and inference.
 
 Previously, I worked as an AI Engineer at [AlterSense Limited](https://www.altersense.com/), where I led the development of a human activity recognition system for the RMG industry in Bangladesh. Prior to this, I served as a Lab Instructor at [North South University](https://www.northsouth.edu). I was also awarded a research fellowship through the [Fatima Fellowship Program](https://www.fatimafellowship.com/), where I worked on "Emerging Number Format Effect on ML Runtime Performance" under the supervision of [Dr. Abdulrahman Mahmoud](https://ma3mool.github.io/). Earlier, I worked as a Research Assistant intern at the [TnR Biomedical Research Lab](https://github.com/TnR-Lab), leading to my first peer-reviewed journal publication in the biomedical domain.
 
